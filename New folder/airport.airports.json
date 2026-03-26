@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "69ab2ea34b80e9ab7ad6b6b4"
+  },
+  "name": "Delhi Airport",
+  "code": "DEL",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCK8Jx7WPTZcqgSshiCoo7q-bffEbzARCL3g&s",
+  "createdAt": {
+    "$date": "2026-03-06T19:44:35.373Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-06T19:44:35.373Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ab2ea34b80e9ab7ad6b6b7"
+  },
+  "name": "Mumbai Airport",
+  "code": "BOM",
+  "image": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1",
+  "createdAt": {
+    "$date": "2026-03-06T19:44:35.383Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-06T19:44:35.383Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ab2ea34b80e9ab7ad6b6ba"
+  },
+  "name": "Bangalore Airport",
+  "code": "BLR",
+  "image": "https://images.unsplash.com/photo-1556388158-158ea5ccacbd",
+  "createdAt": {
+    "$date": "2026-03-06T19:44:35.385Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-06T19:44:35.385Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ab2ea34b80e9ab7ad6b6bd"
+  },
+  "name": "Hyderabad Airport",
+  "code": "HYD",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFntGCRfjPI83x-gT5EQrjyRChlitF6Ps49A&s",
+  "createdAt": {
+    "$date": "2026-03-06T19:44:35.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-06T19:44:35.388Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ab2ea34b80e9ab7ad6b6c0"
+  },
+  "name": "Chennai Airport",
+  "code": "MAA",
+  "image": "https://www.shutterstock.com/image-illustration/aircraft-landing-chennai-india-3d-600nw-2418319005.jpg",
+  "createdAt": {
+    "$date": "2026-03-06T19:44:35.390Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-06T19:44:35.390Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ab2ea34b80e9ab7ad6b6c3"
+  },
+  "name": "Kolkata Airport",
+  "code": "CCU",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSGbKISJ4mvT7HP8pbt6GGypsQjm9BLazb0Q&s",
+  "createdAt": {
+    "$date": "2026-03-06T19:44:35.392Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-06T19:44:35.392Z"
+  },
+  "__v": 0
+}]

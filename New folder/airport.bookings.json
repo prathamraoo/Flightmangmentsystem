@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "69b42769f2dfba3379307a0b"
+  },
+  "userId": {
+    "$oid": "69ab25a9a529a7cd6e495c2a"
+  },
+  "airport": "Bangalore",
+  "flight": "Qatar Airways",
+  "from": "Bangalore",
+  "to": "Hyderabad",
+  "seats": [
+    {
+      "seatNumber": "3F",
+      "price": 115000,
+      "_id": {
+        "$oid": "69b42769f2dfba3379307a0c"
+      }
+    }
+  ],
+  "travelers": 1,
+  "cabinClass": "Economy",
+  "price": 115000,
+  "status": "Confirmed",
+  "createdAt": {
+    "$date": "2026-03-13T15:04:09.437Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-14T03:54:34.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b4e3b9fc9cd8f9a5083986"
+  },
+  "userId": {
+    "$oid": "69ab25a9a529a7cd6e495c2a"
+  },
+  "airport": "Bangalore",
+  "flight": "IndiGo",
+  "from": "Bangalore",
+  "to": "Chennai",
+  "seats": [
+    {
+      "seatNumber": "10F",
+      "price": 4500,
+      "_id": {
+        "$oid": "69b4e3b9fc9cd8f9a5083987"
+      }
+    }
+  ],
+  "travelers": 1,
+  "cabinClass": "Economy",
+  "price": 4500,
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2026-03-14T04:27:37.473Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-14T04:27:37.473Z"
+  },
+  "__v": 0
+}]

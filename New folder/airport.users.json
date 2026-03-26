@@ -1,0 +1,114 @@
+[{
+  "_id": {
+    "$oid": "69a07e814b45a67f1f8191fe"
+  },
+  "name": "ramas@gmail.com",
+  "email": "rama@gmail.com",
+  "phone": "1234556",
+  "password": "$2b$10$yyIGJVAwfGo9TWBT11N2UemanuZeh8wcdUiHQ2tp17KSMNBq1MXHW",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a07ec04b45a67f1f819208"
+  },
+  "name": "sourabh",
+  "email": "sou@gmail.com",
+  "phone": "65346987680",
+  "password": "$2b$10$v5guQBusNvD8rdztGT1gkeuDxy8agSPZOCGPQ89DFVr3uMVK13KLy",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a07f5c4b45a67f1f81920d"
+  },
+  "name": "sam",
+  "email": "sam@gmail.com",
+  "phone": "6474532",
+  "password": "$2b$10$bYPkwCNhYsjsxeoHWpooOOlAUf.8oSuzFkE5cV24i/BcG/35t4cEy",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a081a14b45a67f1f819213"
+  },
+  "name": "samm",
+  "email": "samm@gmail.com",
+  "phone": "2352566",
+  "password": "$2b$10$xbBcvV5fx7AzlkULGkYQHO7EsqMKNVr1ACpBXd3Y6oN.KM8ect83W",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a083d24b45a67f1f819219"
+  },
+  "name": "rohithrama",
+  "email": "rohithrama@gmail.com",
+  "phone": "9844634647",
+  "password": "$2b$10$V.eypE6gC/QOFm6CWqMSOOztid0Cw/1x0MC0i05v2n7f8g.Sf6b5m",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a12c12961d822070dfe0fd"
+  },
+  "name": "Prathamm",
+  "email": "prathamm@gmail.com",
+  "phone": "98765532",
+  "password": "$2b$10$8d69Lm.L02cHIv99empLpeKoRHxBRVU/xPfTMEJuz4aUOimHDxSvy",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a9124f4f6b7decc0eb0adb"
+  },
+  "name": "colasoo",
+  "email": "colasoo@gmail.com",
+  "phone": "8765432",
+  "password": "$2b$10$nYocuoSqRdERIPowGMk/GeBhjORJXIo91q6agSAocDyjhblHPXDPq",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ab1d95baf93f82be712b01"
+  },
+  "name": "Pratham Rao",
+  "email": "pratham@gmail.com",
+  "phone": "987631",
+  "password": "$2b$10$qvgXO3z9rtDtPmw.VjVA0uVd7Zc4Qio0FiI14F6YPCoc71YHLLOzi",
+  "role": "user",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ab1fb668a28cb1fa06fc70"
+  },
+  "name": "Admin User",
+  "email": "admin@example.com",
+  "phone": "1234567890",
+  "password": "$2b$10$.OJd.vIbuYwAhI.qIw/BD.MpcrQLCXCU.pUCd9WWlV3GcwddD125u",
+  "role": "admin",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ab245da529a7cd6e495c23"
+  },
+  "name": "Pratham",
+  "email": "prathamrao48156@gmail.com",
+  "phone": "7338070501",
+  "password": "$2b$10$IwuQCDkWeSeB6QJJ22jLu.FxfHVbBB07YNYHgt5lUfaIRpISHjyAW",
+  "role": "user",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ab25a9a529a7cd6e495c2a"
+  },
+  "name": "ppp",
+  "email": "p@gmail.com",
+  "phone": "98669786",
+  "password": "$2b$10$XJDDA9.dFvYKTs0654gg6.phGUc0zVUhiHNlDrDFGjAAMnqBM2oLO",
+  "role": "user",
+  "__v": 0
+}]

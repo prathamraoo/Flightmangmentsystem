@@ -1,0 +1,209 @@
+[{
+  "_id": {
+    "$oid": "69ab2ea34b80e9ab7ad6b6c5"
+  },
+  "airline": "Air India",
+  "details": [
+    "Meals",
+    "Extra legroom",
+    "1 Cabin bag"
+  ],
+  "flightNumber": "AI-101",
+  "fromAirport": {
+    "$oid": "69ab2ea34b80e9ab7ad6b6b4"
+  },
+  "toAirport": {
+    "$oid": "69ab2ea34b80e9ab7ad6b6b7"
+  },
+  "departureDate": {
+    "$date": "2026-03-07T19:44:35.393Z"
+  },
+  "departureTime": "09:15",
+  "arrivalTime": "11:20",
+  "duration": "2h 05m",
+  "price": 4500,
+  "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GMOMJTWQ3ZN57PUPKMABZSKWVA.jpg",
+  "seats": 100,
+  "availableSeats": 100,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-06T19:44:35.396Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-12T04:45:15.338Z"
+  },
+  "destination": "",
+  "source": ""
+},
+{
+  "_id": {
+    "$oid": "69ab2ea34b80e9ab7ad6b6c6"
+  },
+  "airline": "IndiGo",
+  "details": [
+    "On-time focus",
+    "Low cost",
+    "1 Cabin bag"
+  ],
+  "flightNumber": "6E-202",
+  "fromAirport": {
+    "$oid": "69ab2ea34b80e9ab7ad6b6b7"
+  },
+  "toAirport": {
+    "$oid": "69ab2ea34b80e9ab7ad6b6ba"
+  },
+  "departureDate": {
+    "$date": "2026-03-07T19:44:35.393Z"
+  },
+  "departureTime": "14:10",
+  "arrivalTime": "15:55",
+  "duration": "1h 45m",
+  "price": 3900,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/IndiGo_Airbus_A320neo_F-WWDG_%28to_VT-ITI%29_%2828915135713%29.jpg/500px-IndiGo_Airbus_A320neo_F-WWDG_%28to_VT-ITI%29_%2828915135713%29.jpg",
+  "seats": 100,
+  "availableSeats": 100,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-06T19:44:35.396Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-06T19:44:35.396Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ab2ea34b80e9ab7ad6b6c7"
+  },
+  "airline": "SpiceJet",
+  "details": [
+    "Low cost",
+    "Add-ons available"
+  ],
+  "flightNumber": "SG-303",
+  "fromAirport": {
+    "$oid": "69ab2ea34b80e9ab7ad6b6c0"
+  },
+  "toAirport": {
+    "$oid": "69ab2ea34b80e9ab7ad6b6bd"
+  },
+  "departureDate": {
+    "$date": "2026-03-08T19:44:35.393Z"
+  },
+  "departureTime": "07:40",
+  "arrivalTime": "08:55",
+  "duration": "1h 15m",
+  "price": 4200,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/VT-MXX_-_Boeing_737_MAX_8_-_SpiceJet_-_MSN_60184_-_VGHS.jpg/500px-VT-MXX_-_Boeing_737_MAX_8_-_SpiceJet_-_MSN_60184_-_VGHS.jpg",
+  "seats": 100,
+  "availableSeats": 100,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-06T19:44:35.396Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-06T19:44:35.396Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ab2ea34b80e9ab7ad6b6c8"
+  },
+  "airline": "Vistara",
+  "details": [
+    "Premium cabin",
+    "Meals",
+    "Entertainment"
+  ],
+  "flightNumber": "UK-404",
+  "fromAirport": {
+    "$oid": "69ab2ea34b80e9ab7ad6b6c3"
+  },
+  "toAirport": {
+    "$oid": "69ab2ea34b80e9ab7ad6b6b4"
+  },
+  "departureDate": {
+    "$date": "2026-03-08T19:44:35.393Z"
+  },
+  "departureTime": "18:30",
+  "arrivalTime": "20:45",
+  "duration": "2h 15m",
+  "price": 4700,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Vistara%2C_VT-TSD%2C_Boeing_787-9_Dreamliner.jpg/500px-Vistara%2C_VT-TSD%2C_Boeing_787-9_Dreamliner.jpg",
+  "seats": 100,
+  "availableSeats": 100,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-06T19:44:35.396Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-06T19:44:35.396Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ab2ea34b80e9ab7ad6b6c9"
+  },
+  "airline": "IndiGo",
+  "details": [
+    "Low cost",
+    "Fast boarding"
+  ],
+  "flightNumber": "6E-505",
+  "fromAirport": {
+    "$oid": "69ab2ea34b80e9ab7ad6b6b4"
+  },
+  "toAirport": {
+    "$oid": "69ab2ea34b80e9ab7ad6b6c0"
+  },
+  "departureDate": {
+    "$date": "2026-03-09T19:44:35.393Z"
+  },
+  "departureTime": "06:10",
+  "arrivalTime": "08:55",
+  "duration": "2h 45m",
+  "price": 4100,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/IndiGo_Airbus_A320neo_F-WWDG_%28to_VT-ITI%29_%2828915135713%29.jpg/500px-IndiGo_Airbus_A320neo_F-WWDG_%28to_VT-ITI%29_%2828915135713%29.jpg",
+  "seats": 100,
+  "availableSeats": 100,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-06T19:44:35.396Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-06T19:44:35.396Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ab2ea34b80e9ab7ad6b6ca"
+  },
+  "airline": "Air India",
+  "details": [
+    "Meals",
+    "Checked baggage options"
+  ],
+  "flightNumber": "AI-606",
+  "fromAirport": {
+    "$oid": "69ab2ea34b80e9ab7ad6b6ba"
+  },
+  "toAirport": {
+    "$oid": "69ab2ea34b80e9ab7ad6b6bd"
+  },
+  "departureDate": {
+    "$date": "2026-03-09T19:44:35.393Z"
+  },
+  "departureTime": "12:25",
+  "arrivalTime": "13:40",
+  "duration": "1h 15m",
+  "price": 3600,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/VT-JRF_%40_JFK%2C_2024-11-04.png/500px-VT-JRF_%40_JFK%2C_2024-11-04.png",
+  "seats": 100,
+  "availableSeats": 100,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-06T19:44:35.397Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-06T19:44:35.397Z"
+  }
+}]
